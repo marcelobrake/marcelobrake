@@ -1,7 +1,5 @@
 # Marcelo Brake
 
-<img src="images/marcelo-brake.jpg" alt="Marcelo Brake" width="160">
-
 ### IT Manager & DevSecOps Specialist
 
 Foco em performance de soluções em nuvem para otimização de custos operacionais e gestão de soluções com IA em aplicações e operações.
