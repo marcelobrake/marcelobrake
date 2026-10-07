@@ -1,4 +1,4 @@
-# Olá, eu sou Marcelo Brake 👋
+# Marcelo Brake
 
 <img src="images/marcelo-brake.jpg" alt="Marcelo Brake" width="160">
 
