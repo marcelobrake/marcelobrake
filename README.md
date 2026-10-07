@@ -46,7 +46,7 @@ Também tenho experiência como professor no ensino superior e técnico, conecta
 
 | Repositórios públicos | Seguidores | Seguindo | Gists públicos |
 | :---: | :---: | :---: | :---: |
-| 4 | 1 | 27 | 15 |
+| 45 | 19 | 27 | 15 |
 
 [Explore meus repositórios](https://github.com/marcelobrake?tab=repositories) · [Veja meus gists](https://gist.github.com/marcelobrake)
 
